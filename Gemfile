@@ -36,6 +36,9 @@ gem 'xmlrpc'
 
 gem 'annotate'
 
+gem "paperclip", "~> 6.0.0"
+
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
